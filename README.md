@@ -4,7 +4,7 @@ Created in Java using the Eclipse IDE.
 
 Copyright: Ronald Grau, Representational Systems Laboratory, University of Sussex
 
-Everyone can use, modify and resdistribute this software free of charge for non-commercial 
+Everyone can use, modify and redistribute this software free of charge for non-commercial 
 research purposes, provided the above copyright line is included in the distribution.
 
 The /bin folder contains runnable JAR files of the different versions.
